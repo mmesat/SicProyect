@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sic.Web", "Sic.Web\Sic.Web.csproj", "{9B23E099-CDE6-4BB1-8D72-63A8CCAD5070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sic.Web.Tests", "Sic.Web.Tests\Sic.Web.Tests.csproj", "{46E443AC-AD36-41B9-8B75-78CFF4707B18}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mtrujillo.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Sic.Web.Tests\\Sic.Web.Tests.csproj
+		SccProjectName1 = Sic.Web.Tests
+		SccLocalPath1 = Sic.Web.Tests
+		SccProjectUniqueName2 = Sic.Web\\Sic.Web.csproj
+		SccProjectName2 = Sic.Web
+		SccLocalPath2 = Sic.Web
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B23E099-CDE6-4BB1-8D72-63A8CCAD5070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B23E099-CDE6-4BB1-8D72-63A8CCAD5070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B23E099-CDE6-4BB1-8D72-63A8CCAD5070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B23E099-CDE6-4BB1-8D72-63A8CCAD5070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E443AC-AD36-41B9-8B75-78CFF4707B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E443AC-AD36-41B9-8B75-78CFF4707B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E443AC-AD36-41B9-8B75-78CFF4707B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E443AC-AD36-41B9-8B75-78CFF4707B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
